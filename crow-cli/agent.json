@@ -1,9 +1,9 @@
 {
   "id": "crow-cli",
   "name": "crow-cli",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Minimal ACP Native Coding Agent",
-  "repository": "https://github.com/odellus/crow-cli",
+  "repository": "https://github.com/crow-cli/crow-cli",
   "authors": ["Thomas Wood"],
   "license": "Apache-2.0",
   "distribution": {
